@@ -1,0 +1,5 @@
+.kartinki {
+    display: flex;
+    flex-direction: column;
+}
+                      
